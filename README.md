@@ -4,8 +4,8 @@ Deepfake Detect is a comprehensive solution designed to identify and flag deepfa
 
 ## Project Structure
 
-- `frontend/`: Contains the React application that provides the user interface.
-- `backend/`: Contains the FastAPI application responsible for processing and detecting deepfakes.
+- `Frontend/`: Contains the React application that provides the user interface.
+- `Backend/`: Contains the FastAPI application responsible for processing and detecting deepfakes.
 
 ## Getting Started
 
@@ -13,11 +13,11 @@ To get the project up and running on your local machine, you'll need to set up b
 
 ### Setting Up the Backend
 
-Navigate to the `backend/` directory and follow the instructions in the `README.md` to set up the FastAPI app.
+Navigate to the `Backend/` directory and follow the instructions in the `README.md` to set up the FastAPI app.
 
 ### Setting Up the Frontend
 
-Navigate to the `frontend/` directory and follow the instructions in the `README.md` to set up the React app.
+Navigate to the `Frontend/` directory and follow the instructions in the `README.md` to set up the React app.
 
 ## Contributing
 
